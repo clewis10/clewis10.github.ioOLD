@@ -5,11 +5,11 @@ baseurl: ''
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/compass.png"
+  logo: "/images/pngegg.png"
   # author will appear under the avatar (optional)
-  author: "Charles"
+  author: "Charles Lewis"
   # tagline will appear under the title (optional)
-  tagline: "<a href='http://jekyllrb.com'>Charles Lewis</a> - Cyber Security"
+  tagline: "Not a robot."
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
